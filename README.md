@@ -5,7 +5,7 @@
     <img src="https://i.ibb.co/ncCsJk9/Omega-Forma.png" alt="Logo" width="100" height="100">
   </a>
 
-  <h3 align="center">Argon</h3>
+  <h3 align="center">Forma</h3>
 
   <p align="center">
     Une aide tres utile pour GIT & GitHub
@@ -13,22 +13,19 @@
     <a href="#"><strong>Documentation »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/AfterNath/Argon/issues">Report Bug</a>
+    <a href="https://github.com/AfterNath/Forma/issues">Report Bug</a>
     ·
-    <a href="https://github.com/AfterNath/Argon/issues">Suggestions</a>
+    <a href="https://github.com/AfterNath/Forma/issues">Suggestions</a>
   </p>
 </p>
 
 <!-- ABOUT THE PROJECT -->
-## Argon
+## Forma
 
-Argon est un outil développé en python vous permetent de prendre plus facilement GIT en main... Il est Open-Source sous la license : <strong> Eclipse Public License 2.0</strong>
-
+Forma est un outil tres pratique pour creer un ASCII Art. 
 
 ### Modules utilisés
 
-* [Pyfade](https://pypi.org/project/pyfade/)
-* [Pycenter](https://pypi.org/project/pycenter/)
 * [Colorama](https://pypi.org/project/colorama/)
 
 
@@ -38,18 +35,11 @@ Argon est un outil développé en python vous permetent de prendre plus facileme
 
 - Une fois python installé, installez les modules a l'aide de ces commandes :
   
-  ✿ Pyfade By [Billy](https://github.com/billythegoat356)
-  ```
-  py -m pip install pyfade
-  ```
   ✿ Colorama By [Tartley](https://github.com/tartley)
   ```
   py -m pip install colorama
   ```
-  ✿ Pycenter By [Billy](https://github.com/billythegoat356)
-  ```
-  py -m pip install pycenter
-  ```
+
   
 
 ### Utilisation
