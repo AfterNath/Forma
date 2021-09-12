@@ -50,7 +50,7 @@ Forma est un outil tres pratique pour creer un ASCII Art.
 <!-- CONTACT -->
 ## Contact
 
-Mon discord : </AfterNath>#9201
+Mon discord : "</AfterNath>"#9201
 
 Lien du projet: [https://github.com/AfterNath/Argon](https://github.com/AfterNath/Argon)
 
