@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="#">
-    <img src="https://i.ibb.co/LQfKPsS/Forma.png" alt="Logo" width="100" height="100">
+    <img src="https://i.ibb.co/ncCsJk9/Omega-Forma.png" alt="Logo" width="100" height="100">
   </a>
 
   <h3 align="center">Argon</h3>
